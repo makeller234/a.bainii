@@ -1,2 +1,2 @@
-# a.bainii
-Extra Credit project do ESCI1003
+# A. bainii
+Extra Credit project for ESCI1003
