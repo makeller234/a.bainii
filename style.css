@@ -26,6 +26,10 @@ a{
     text-decoration: underline;
 }
 
+P{
+    margin: 50px;
+}
+
 .card{
     background-color: #8D8741;
 }
@@ -33,8 +37,9 @@ a{
 .btn-primary{
     background-color: #BC986A;
     border-color: #BC986A;
+    color:#FBEEC1;
 }
 .btn:active .btn:hover{
-    background-color: #BC986A;
-    border-color: #BC986A;
+    background-color: #BC986A !important;
+    border-color: #BC986A !important;
 }
