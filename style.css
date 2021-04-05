@@ -39,7 +39,14 @@ P{
     border-color: #BC986A;
     color:#FBEEC1;
 }
-.btn:active .btn:hover{
-    background-color: #BC986A !important;
-    border-color: #BC986A !important;
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    background-color: #BC986A;
+    border-color: #BC986A;
+
+}
+
+.btn-primary:hover{
+    background-color: #BC986A;
+    border-color: #BC986A;
 }
