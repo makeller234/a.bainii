@@ -51,3 +51,7 @@ P{
     background-color: #BC986A;
     border-color: #BC986A;
 }
+.btn-primary.focus, .btn-primary:focus {
+    background-color: #BC986A;
+    border-color: #BC986A;
+}
